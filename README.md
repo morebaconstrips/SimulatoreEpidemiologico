@@ -10,6 +10,7 @@ Esso nasce come progetto per il corso di informatica _Metodologie di programmazi
     - [Paesi](#paesi)
     - [Virus](#virus)
 - [Possibili esiti della simulazione](#possibili-esiti-della-simulazione)
+- [Screenshot](#screenshot)
 
 <hr>
 
@@ -111,4 +112,6 @@ tutti i vivi sono sani (quindi mai stati infettati) o guariti;
 2. la malattia vince, cioè tutti gli abitanti del paese sono morti;
 3. collasso dell'economia del paese, avviene quando terminano le risorse disponibili.
 
+## Screenshot
+![alt text](screenshots/simulatore2.png "Description goes here")
 
