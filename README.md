@@ -6,7 +6,7 @@ Esso nasce come progetto per il corso di informatica _Metodologie di programmazi
 ## Contenuti
 - [Struttura del simulatore](#struttura-del-simulatore)
 - [Parametri generali](#parametri-generali)
-  - [Parametri di default](#parametri-di-default)
+  - [Parametri presi in input](#parametri-presi-in-input)
     - [Paesi](#paesi)
     - [Virus](#virus)
 - [Possibili esiti della simulazione](#possibili-esiti-della-simulazione)
@@ -19,7 +19,7 @@ Una volta avviato il programma l’utente ha la possibilità di scegliere se sim
 
 Dopo aver impostato a piacere i vari parametri inizia la simulazione vera e propria. L’utente ha in questo momento la possibilità di avanzare senza misure precauzionali (è l’unica scelta disponibile prima dello scoppio dell’epidemia, dal momento che non è possibile attuare strategie finché il primo sintomatico non compaia sulla scena a dare l’allarme), isolare individui sani al fine di minimizzare la contagiosità del virus evitando il contatto sociale, oppure applicare tamponi su persone in movimento scelte a caso, per studiare l’andamento della curva dei 3 contagi e dedurre se si sta lavorando correttamente oppure è necessario un cambio di strategia.
 
-## Parametri generali
+## Parametri presi in input
 Parametri generali:
 - _Popolazione iniziale_: il numero di individui esistenti all’inizio della simulazione;
 - _Risorse iniziali_: la quantità di risorse inizialmente disponibili;
