@@ -112,6 +112,7 @@ tutti i vivi sono sani (quindi mai stati infettati) o guariti;
 2. la malattia vince, cioè tutti gli abitanti del paese sono morti;
 3. collasso dell'economia del paese, avviene quando terminano le risorse disponibili.
 
+
 ## Screenshot
 Scelta del paese in cui simulare l'epidemia:
 
