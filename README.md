@@ -116,13 +116,19 @@ tutti i vivi sono sani (quindi mai stati infettati) o guariti;
 Scelta del paese in cui simulare l'epidemia
 ![alt text](Screenshots/simulatore2.png "Scelta del paese in cui simulare l'epidemia")
 
+
 Scelta del virus
+
 ![alt text](Screenshots/simulatore3.png "Scelta del virus")
 
+
 Esempio di sviluppo della simulazione
+
 ![alt text](Screenshots/simulatore4.png "Esempio di sviluppo della simulazione")
 
+
 Possibile esito della simulazione
+
 ![alt text](Screenshots/simulatore5.png "Possibile esito della simulazione")
 
 
