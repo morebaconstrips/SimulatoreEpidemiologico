@@ -5,8 +5,8 @@ Esso nasce come progetto per il corso di informatica _Metodologie di programmazi
 
 ## Contenuti
 - [Struttura del simulatore](#struttura-del-simulatore)
-- [Parametri generali](#parametri-generali)
-  - [Parametri presi in input](#parametri-presi-in-input)
+- [Parametri presi in input](#parametri-presi-in-input)
+  - [Parametri di default](#parametri-di-default)
     - [Paesi](#paesi)
     - [Virus](#virus)
 - [Possibili esiti della simulazione](#possibili-esiti-della-simulazione)
@@ -113,5 +113,5 @@ tutti i vivi sono sani (quindi mai stati infettati) o guariti;
 3. collasso dell'economia del paese, avviene quando terminano le risorse disponibili.
 
 ## Screenshot
-![alt text](screenshots/simulatore2.png "Description goes here")
+![image](Screenshots/simulatore2.png "PROVAAAAAAAAAA")
 
