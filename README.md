@@ -113,5 +113,5 @@ tutti i vivi sono sani (quindi mai stati infettati) o guariti;
 3. collasso dell'economia del paese, avviene quando terminano le risorse disponibili.
 
 ## Screenshot
-![image](Screenshots/simulatore2.png "PROVAAAAAAAAAA")
+![alt text](Screenshots/simulatore2.png "PROVAAAAAAAAAA")
 
